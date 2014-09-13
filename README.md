@@ -1,6 +1,7 @@
-Danilo Mutti - NUSP 3641216
-Eduardo Cerejo - NUSP 3672552
-Jaqueline Brito - NUSP 5874731
+-------------------
+INTRUSION DETECTOR
+-------------------
+[KDD Cup 99](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html)
 
 ########################################
 #          Pré-Requisitos              #
@@ -59,3 +60,7 @@ Jaqueline Brito - NUSP 5874731
 * Habilitar a função de Cross-validation com 10 folds e selecionar o botão "Start" para iniciar o treinamento.
 * Após o treinamento da rede, carregar o arquivo de teste selecionando a opção "Supplied test set" e, com o botão direito na área "Result list", utilizar a funcionalidade "Re-evaluate model on current test set"
 * Os arquivos de resultado obtidos pelo grupo após esta etapa estão disponíveis com o nome massa_[0-4]_resultado_mlp.txt
+
+
+Contact: Danilo Mutti, Eduardo Cerejo, Jaqueline Brito
+
