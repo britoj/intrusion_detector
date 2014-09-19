@@ -90,8 +90,6 @@ INTRUSION DETECTOR
 
 * Após o treinamento da rede, carregar o arquivo de teste selecionando a opção "Supplied test set" e, com o botão direito na área "Result list", utilizar a funcionalidade "Re-evaluate model on current test set"
 
-* Os arquivos de resultado obtidos pelo grupo após esta etapa estão disponíveis com o nome massa_[0-4]_resultado_mlp.txt
-
 
 Contact: Danilo Mutti, Eduardo Cerejo e Jaqueline Brito
 
